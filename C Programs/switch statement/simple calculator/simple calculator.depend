@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693999568 source:d:\c programs\switch statement\simple calculator\main.c
+	<stdio.h>
+	<math.h>
+
