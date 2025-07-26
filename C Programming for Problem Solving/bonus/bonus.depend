@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698390617 source:d:\kle\c programming\bonus\main.c
+	<stdio.h>
+	<stdlib.h>
+

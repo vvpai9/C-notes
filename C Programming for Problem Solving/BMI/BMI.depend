@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697431970 source:d:\kle\c programming\bmi\main.c
+	<stdio.h>
+	<math.h>
+
