@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697429803 source:d:\kle\c programming\sphere\main.c
+	<stdio.h>
+	<math.h>
+
