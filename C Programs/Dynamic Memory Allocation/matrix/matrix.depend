@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697699896 source:d:\savita soft\c programs\dynamic memory allocation\matrix\main.c
+	<stdio.h>
+	"matop.h"
+
+1697699942 d:\savita soft\c programs\dynamic memory allocation\matrix\matop.h
+
+1697699773 source:d:\savita soft\c programs\dynamic memory allocation\matrix\matop.c
+	<stdio.h>
+

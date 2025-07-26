@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1698667880 source:d:\kle\c programming\command line arguments\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698668785 source:d:\savita soft\c programs\dynamic memory allocation\command line arguments\main.c
+	<stdio.h>
+	<stdlib.h>
+

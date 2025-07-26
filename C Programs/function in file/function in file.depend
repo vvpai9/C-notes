@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698325348 source:d:\savita soft\c programs\function in file\main.c
+	<stdio.h>
+	"MyFunction.h"
+
+1698325348 d:\savita soft\c programs\function in file\myfunction.h
+	"myfun.c"
+
+1698325348 d:\savita soft\c programs\function in file\myfun.c
+
+1698325348 source:d:\savita soft\c programs\function in file\myfun.c
+
