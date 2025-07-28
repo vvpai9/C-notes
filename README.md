@@ -1,2 +1,2 @@
 # C-notes
-C Programming Language
+Notes and Programs using C Programming Language
